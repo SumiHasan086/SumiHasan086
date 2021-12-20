@@ -1,7 +1,7 @@
-![ Web Designer.](https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/260389984_403508021500295_5246344260409028963_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=N5N83qwQ2nQAX-dYknq&_nc_ht=scontent.fdac134-1.fna&oh=3f28cc464cb70e804c166acb3615dff8&oe=61A0B9C3)
+
 
 ### Hi  👋, I'm **Sumi Hasan**.
-####  Web Designer.
+###Web Designer
 
 I'm a Web Designer who is passionately trying to gather the complete knowledge of Web Development.I'm over sure that I am oriented ,stategic and hard working. Always I work with an end goal in mind and try to make an error free website.
 
