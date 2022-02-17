@@ -10,7 +10,7 @@ Skills: JS / HTML / CSS / Bootstrap
 - 🔭 I’m currently working on doing something special. 
 - 🌱 I’m currently learning JavaScript. 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about JS / HTML / CSS 
+- 💬 Ask me about JS / HTML / CSS / Bootstrap
 - ⚡ Fun fact: I think I'm a great fool. 
 
 
