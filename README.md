@@ -1,11 +1,11 @@
 
 
 # Hi  👋, I'm **Sumi Hasan**.
-## Web Designer
+## Web Developer
 
 I'm a Web Designer who is passionately trying to gather the complete knowledge of Web Development.I'm over sure that I am oriented ,stategic and hard working. Always I work with an end goal in mind and try to make an error free website.
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS / Bootstrap
 
 - 🔭 I’m currently working on doing something special. 
 - 🌱 I’m currently learning JavaScript. 
