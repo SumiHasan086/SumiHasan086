@@ -1,16 +1,16 @@
 
 
 # Hi  👋, I'm **Sumi Hasan**.
-## Web Developer
+## Front-End-Developer
 
-I'm a Web Designer who is passionately trying to gather the complete knowledge of Web Development.I'm over sure that I am oriented ,stategic and hard working. Always I work with an end goal in mind and try to make an error free website.
+I'm a Front-End-Developer who is passionately trying to gather the complete knowledge of Web Development.I'm over sure that I am oriented ,stategic and hard working. Always I work with an end goal in mind and try to make an error free website.
 
-Skills: JS / HTML / CSS / Bootstrap
+Skills: JS / HTML / CSS / Bootstrap / jQuery / React
 
 - 🔭 I’m currently working on doing something special. 
-- 🌱 I’m currently learning JavaScript. 
+- 🌱 I’m currently learning React JS. 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about JS / HTML / CSS / Bootstrap
+- 💬 Ask me about JS / HTML / CSS / Bootstrap / jQuery / React
 - ⚡ Fun fact: I think I'm a great fool. 
 
 
