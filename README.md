@@ -3,14 +3,14 @@
 # Hi  👋, I'm **Sumi Hasan**.
 ## Front-End-Developer
 
-I'm a Front-End-Developer who is passionately trying to gather the complete knowledge of Web Development.I'm over sure that I am oriented ,stategic and hard working. Always I work with an end goal in mind and try to make an error free website.
+I'm a professional Front-End-Developer who is passionately trying to gather the complete knowledge of Front-End Development. I am an expert on JavaScript frameworks: React.JS. I also have solid foundations in HTML5, CSS3, Bootstrap, jQuery, Tailwind, Javascript, React and Redux. I'm over sure that I am oriented ,stategic and hard working. Always I work with an end goal in mind and try to make an error free website.
 
-Skills: HTML / CSS / Bootstrap / jQuery / JS /  React
+Skills: HTML / CSS / Bootstrap / jQuery / Javascript / React / Tailwind CSS / Redux / Firebase
 
 - 🔭 I’m currently working on doing something special. 
-- 🌱 I’m currently learning React JS. 
+- 🌱 I’m currently learning Next JS. 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about  HTML / CSS / Bootstrap / jQuery / JS /  React
+- 💬 Ask me about  HTML / CSS / Bootstrap / jQuery / Javascript / React / Tailwind CSS / Redux / Firebase
 - ⚡ Fun fact: I think I'm a great fool. 
 
 
